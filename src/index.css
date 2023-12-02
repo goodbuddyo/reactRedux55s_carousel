@@ -1,0 +1,193 @@
+#app{max-width:1600px;margin:0 auto}
+nav{padding:6px 0 0 0}
+html{font-size:14px}
+
+.so-container{background-color:#033}
+.so-container a {color:#17a2b8 }  
+.so-container a:hover {color:#375575 }  
+img.so-55sLogo{width:150px;height:48px}
+/* .col-4.text-center.so-nopad{padding:0;padding-left:0;padding-right:0}
+.carousel-inner .carousel-caption{right:10%;bottom:inherit;top:4px;left:10%;z-index:10;padding-top:10px;padding-bottom:10px;color:#fff;text-align:center}
+div{border-top:solid 2px red} 
+.carousel-inner .carousel-caption .so-LeftCaption{text-align:left}
+.carousel-control-next-icon{background-image:url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='%2399cccc' viewBox='0 0 8 8'%3e%3cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3e%3c/svg%3e")}
+
+
+.carousel-fade{width:100%}
+.carousel-fade .carousel-item{opacity:0;transition:opacity 1s ease-in-out}
+.carousel-fade .carousel-item.active{opacity:1}
+.carousel-inner .carousel-item,.so-container #carouselExampleFade > div.carousel-inner > div:nth-child(1){background:linear-gradient(to top,#668a98,#203239)}
+.so-container #carouselExampleFade > div.carousel-inner > div:nth-child(2){background:linear-gradient(to top,#58737e,#203239)}
+.so-container #carouselExampleFade > div.carousel-inner > div:nth-child(3){background:linear-gradient(to top,#699,#203239)}
+.so-container #carouselExampleFade > div.carousel-inner > div:nth-child(5){background:linear-gradient(to top,#668a98,#203239)}
+.so-container #carouselExampleFade > div.carousel-inner > div:nth-child(6){background:linear-gradient(to top,#58737e,#203239)}
+.so-carouselRow{display:none}
+.so-carouselRow ol{margin-bottom:4px}
+.so-carouselItems .carousel-item{padding-bottom:22px}
+.container.so-midSection .btn-primary{background-color:#203239;border:solid 1px #033}
+.container.so-midSection .btn-primary:hover{background-color:#066}
+.container.so-midSection .btn-outline-primary{border:solid 1px #033;color:#033}
+.container.so-midSection .btn-outline-primary:hover{background-color:#066;color:#fff}
+
+*/
+
+.so-container{background-image:url(/static/img/5-5sTransBlueGradBG.png)}
+.so-4pxHigh{font-size:4px;line-height:6px;padding:0;margin:0}
+.blog-header{background-color:#203239;font-size:15px;color:#9cc; margin-bottom:12px!important;}
+.blog-header div a{border:none;font-size:15px;color:#9cc; padding-left: 6px; padding-right: 6px; }
+
+.so-LeftCaption p{display:none; justify-content: center;}
+.so-RtCaption{display:flex;padding:0 20px 4px 0}
+.so-LeftCaption{display:flex;padding:1px 10px 10px 24px; justify-content: center; }
+.so-LeftCaption h3{font-size:24px}
+.so-LeftCaption p {font-size:14px}
+.carousel-indicators {margin-bottom: 0.4rem;}
+.so-carouselitem .carousel-caption {  bottom: 8px;}
+
+.so-homecontent {background-color: #ffffff;padding: 10px ; margin-top: 8px; border-radius: 9px; border:solid 2px #66818b}
+.so-homecards {  margin: 0;}
+.pt-md-5,
+.py-md-5{padding-top:12px!important}
+.container.so-midSection,
+.so-assessmentHeader {background-color:#fff}
+.so-assessmentHeader h2{font-size:30px;line-height:auto}
+.so-lgScreenTxt{display:none}
+.so-assessmentHeader p{padding:6px 4px;font-size:18px;line-height:auto;margin-bottom:6px}
+
+.card-deck .card{min-width:220px}
+.w-100{width:100%}
+.w-80{width:80%}
+.my-ul-list .mt-3,
+.my-ul-list .my-3{margin-top:.2rem}
+.my-ul-list .mb-4,
+.my-ul-list .my-4{margin-bottom:1.5rem}
+
+.so-tasklist { background-color: #ffffff; padding: 10px;} 
+.so-tasklist .container {  padding-left: 0px; padding-right: 0px;} 
+.so-tasklist .container .btn {  padding: 0.12rem 0.75rem; margin: 0.12rem  0.42rem   0.12rem 0;      font-size: 0.8rem;}
+
+.so-tasklist-row .col-1, .so-tasklist-row .col-2, so-tasklist-row .col-3, .so-tasklist-row .col-4, 
+.so-tasklist-row .col-5, .so-tasklist-row .col-6, .so-tasklist-row .col-7, .so-tasklist-row .col-8, 
+.so-tasklist-row .col-9, .so-tasklist-row .col-10, .so-tasklist-row .col-11, .so-tasklist-row .col-12, 
+.so-tasklist-row .col, 
+.so-tasklist-row .col-md-1, .so-tasklist-row .col-md-2, .so-tasklist-row .col-md-3, .so-tasklist-row .col-md-4, 
+.so-tasklist-row .col-md-5, .so-tasklist-row .col-md-6, .so-tasklist-row .col-md-7, .so-tasklist-row .col-md-8, 
+.so-tasklist-row .col-md-9, .so-tasklist-row .col-md-10, .so-tasklist-row .col-md-11, .so-tasklist-row .col-md-12, 
+.so-tasklist-row .col-md, .so-tasklist-row .col-md-auto, .so-tasklist-head .col-md-3, .so-tasklist-head .col-md-4, 
+.so-tasklist-head .col-5, .so-tasklist-head .col-6
+{  padding-right: 2px; padding-left: 10px; padding-top: 2px; }
+
+.so-tasklist-head.row {  padding-right: 0px; width: 99%; }
+
+.so-tasklist-head .col-md-1, .so-tasklist-head .col-1,.so-tasklist-head .col-md-3, .so-tasklist-head .col-md-4, .so-tasklist-head .col-5, .so-tasklist-head .col-6
+{ font-weight: bold;  }
+
+
+.so-tasklist-row .col-md-1, .so-tasklist-row .col-md-2 { text-align:left; justify-content: left  }
+.so-tasklist-row{padding:4px 0; font-size: 0.8rem; line-height: 0.9rem; }
+.so-tasklist-row:nth-child(even){background-color: #eeeeee;}
+.so-tasklist-row:nth-child(odd){ background-color: transparent;}
+.so-taskpage {background-color: #ffffff; padding: 8px 4px 12px 10px; border-radius: 6px;}
+.so-taskpage h3{  padding: 2px 14px 2px 0px; margin: 18px 4px 4px 0px; display:inline; width: 40%}
+.so-taskpage  .add-course {  padding: 2px 14px 2px 14px; align-self: center; float:right; margin: 8px 10px 0 0 ;   color: rgb(248, 250, 252); background-color: #347883; border-color: #17a2b8; }
+.so-taskpage  .add-course:hover {  background-color: #59858b;  }
+.so-container .btn-primary { color: #ffffff; background-color: #347883; border-color: #17a2b8; }
+.so-container .btn-primary:hover {  background-color: #59858b;  }
+.so-taskbutton-row {margin-bottom: 12px;}
+
+.so-container .so-tasklist .btn-info { color: #295172; background-color: transparent; border-color: transparent; text-align:left; margin-top: 0; padding-top: 0px; padding-left: 0}
+.so-tasklist .btn-info:hover {  background-color: #c9bfab;  }
+.so-tasklist-row .col-md-12.so-delete , .so-tasklist-row .col-md-2.so-delete  { text-align: right; justify-content: right; }
+
+.so-step-heading {color: #eeeeee;  }
+
+.body55s {color:  #eeeeee;}
+
+.so-footer a.active {color: #becad1;}
+.so-footer a.active:hover {color: #ffffff;}
+.so-footer a {color: #bed6e4;     padding: 4px 6px;}
+.so-footer a:hover {color: #ffffff;}
+.so-footer  .text-muted {   color: #bed6e4 !important; padding-left: 6px; font-size: 1rem; }
+
+@media (min-width: 200px) {
+  .container {
+    width: 99%;
+    max-width: 380px;
+  }
+}
+@media screen and (min-width: 576px) {
+  .container {
+    width: 99%;
+    max-width: 536px;
+  }
+  .d-md-block {
+    display: block !important;
+  }
+  .so-lgScreenTxt {
+    display: inline;
+  }
+  .carousel-inner .carousel-caption {
+    right: 10%;
+    top: 10px;
+    left: 10%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+}
+
+@media (min-width: 768px) {
+  .container {
+    width: 99%;
+    max-width: 728px;
+  }
+  .so-RtCaption {
+    display: block;
+  }
+  .so-LeftCaption ,
+  .so-LeftCaption p {
+    display: block;
+    justify-content: center
+  }
+
+  .so-carouselItems .so-LeftCaption p {
+    display: block;
+    font-size: 16px;
+    line-height: 20px;
+  }
+  
+  .so-LeftCaption h3 {
+    font-size: 28px;
+  }
+  .so-LeftCaption p {font-size:18px}
+  html {
+    font-size: 16px;
+  }
+  .w-100 {
+    width: 100% !important;
+  }
+  .w-80 {
+    width: 90% !important;
+  }
+}
+@media (min-width: 992px) {
+  .container {
+    width: 99%;
+    max-width: 952px;
+  }
+
+  .so-LeftCaption h3 {
+    font-size: 36px;
+  }
+  .so-LeftCaption p {font-size:24px}
+
+  .so-carouselItems .so-LeftCaption p {
+    font-size: 20px;
+    line-height: 24px;
+  }
+}
+@media (min-width: 1200px) {
+  .container {
+    width: 99%;
+    max-width: 1160px;
+  }
+}
